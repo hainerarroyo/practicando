@@ -90,6 +90,7 @@ footer{
     align-items: center;
     justify-content: center;
 }
+
 footer div{
     color: var(--blanco);
     font-size: 2rem;
